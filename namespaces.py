@@ -130,16 +130,43 @@ g = "gray" # global
 def colors():
     y = "yellow" # enclosing
     g = "green" # enclosing
+
     def print_red():
+        nonlocal y
         r = "red"
         print(r, y, g)
+        y = "was changed"
 
     def print_blue():
         b = "blue"
         print(b, y, g)
 
-    print_blue()
     print_red()
+    print_blue()
 
 
 colors()
+
+g = "gray" # global
+
+
+def colors(param="r"):
+    y = "yellow" # enclosing
+    g = "green" # enclosing
+
+    def print_red():
+        r = "red"
+        print(r)
+
+    def print_blue():
+        b = "blue"
+        print(b)
+    if param == "r":
+        print_red()
+    elif param == "b":
+        print_blue()
+    else:
+        print("I dont know this colors")
+
+
+colors("b")
