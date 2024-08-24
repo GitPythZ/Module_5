@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="110b7463-9d57-4d75-a600-85c94e9bc23d" name="Changes" comment="работа с вложенными функциями">
-      <change afterPath="$PROJECT_DIR$/Closure #замыкания.py" afterDir="false" />
+    <list default="true" id="110b7463-9d57-4d75-a600-85c94e9bc23d" name="Changes" comment="Замыкания">
+      <change afterPath="$PROJECT_DIR$/sortfunc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vebinary/arrays.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,9 +47,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.04_practice.executor": "Run",
     "Python.Closure #замыкания.executor": "Run",
     "Python.module_4_2.executor": "Run",
     "Python.namespaces.executor": "Run",
+    "Python.sortfunc.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -93,12 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1724234402720</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Замыкания">
+      <option name="closed" value="true" />
+      <created>1724237947303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724237947303</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Пространство имен" />
     <MESSAGE value="работа с вложенными функциями" />
-    <option name="LAST_COMMIT_MESSAGE" value="работа с вложенными функциями" />
+    <MESSAGE value="Замыкания" />
+    <option name="LAST_COMMIT_MESSAGE" value="Замыкания" />
   </component>
 </project>
