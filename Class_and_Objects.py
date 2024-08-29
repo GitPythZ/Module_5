@@ -42,6 +42,7 @@ class Human:
 
     def __str__(self):
         return f"{self.name}"
+
     def __del__(self):
         print(f"{self.name} ушел")
 
