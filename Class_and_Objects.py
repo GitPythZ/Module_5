@@ -28,6 +28,20 @@ class Human:
     def __len__(self):
         return self.age
 
+    def __lt__(self, other):
+        return self.age < other.age
+
+    def __gt__(self, other):
+        return self.age > other.age
+
+    def __eq__(self, other):
+        return self.name == other.name and self.age == other.age
+
+    def __bool__(self):
+        return bool(self.name)
+
+    def __str__(self):
+        return f"{self.name}"
     def __del__(self):
         print(f"{self.name} ушел")
 
@@ -38,4 +52,7 @@ print(den.name, den.age)
 # den.say_info()
 max.birthday()
 print(len(den))
-
+print(den < max)
+print(den > max)
+print(den == max)
+print(den)

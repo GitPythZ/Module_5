@@ -4,11 +4,13 @@ class House:
         self.name = name
         self.number_of_flours = number_of_flours
 
-    def go_to(new_flour, i=None):
-        while i < new_flour:
-            print(i)
-        if i > new_flour.number_of_flours or i < 1:
+    def go_to(self, new_flour:int):
+        if new_flour < 1 or new_flour > self.number_of_flours:
             print("Такого этажа не существует")
+            return
+        for i in range(1, new_flour + 1):
+            print(i)
+
 
 
 h1 = House("ЖК Горький", 18)
