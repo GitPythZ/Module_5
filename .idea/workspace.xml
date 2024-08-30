@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="110b7463-9d57-4d75-a600-85c94e9bc23d" name="Changes" comment="Не запускается метод go_to">
+    <list default="true" id="110b7463-9d57-4d75-a600-85c94e9bc23d" name="Changes" comment="исправлено">
+      <change afterPath="$PROJECT_DIR$/module_5_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_and_Objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class_and_Objects.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,22 +45,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.04_practice.executor": "Run",
-    "Python.Class_and_Objects.executor": "Run",
-    "Python.Closure #замыкания.executor": "Run",
-    "Python.module2.executor": "Run",
-    "Python.module_4_2.executor": "Run",
-    "Python.module_5_1.executor": "Run",
-    "Python.module_5_2.executor": "Run",
-    "Python.namespaces.executor": "Run",
-    "Python.nim_engine.executor": "Run",
-    "Python.sortfunc.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.04_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Class_and_Objects.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Closure #замыкания.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.namespaces.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nim_engine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sortfunc.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -133,7 +134,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724961097192</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Не запускается метод go_to">
+      <option name="closed" value="true" />
+      <created>1724963435263</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724963435263</updated>
+    </task>
+    <task id="LOCAL-00009" summary="исправлено">
+      <option name="closed" value="true" />
+      <created>1724963526379</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724963526379</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +170,7 @@
     <MESSAGE value="Замыкания" />
     <MESSAGE value="namespaces" />
     <MESSAGE value="Не запускается метод go_to" />
-    <option name="LAST_COMMIT_MESSAGE" value="Не запускается метод go_to" />
+    <MESSAGE value="исправлено" />
+    <option name="LAST_COMMIT_MESSAGE" value="исправлено" />
   </component>
 </project>
