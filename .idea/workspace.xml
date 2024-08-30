@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="110b7463-9d57-4d75-a600-85c94e9bc23d" name="Changes" comment="исправлено">
-      <change afterPath="$PROJECT_DIR$/module_5_3.py" afterDir="false" />
+    <list default="true" id="110b7463-9d57-4d75-a600-85c94e9bc23d" name="Changes" comment="Не работают &quot;магические методы&quot;">
+      <change afterPath="$PROJECT_DIR$/vebinary/Магические методы __add__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,23 +45,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.04_practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Class_and_Objects.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Closure #замыкания.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_4_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.namespaces.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nim_engine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sortfunc.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.04_practice.executor": "Run",
+    "Python.Class_and_Objects.executor": "Run",
+    "Python.Closure #замыкания.executor": "Run",
+    "Python.module2.executor": "Run",
+    "Python.module_4_2.executor": "Run",
+    "Python.module_5_1.executor": "Run",
+    "Python.module_5_2.executor": "Run",
+    "Python.module_5_3.executor": "Run",
+    "Python.namespaces.executor": "Run",
+    "Python.nim_engine.executor": "Run",
+    "Python.sortfunc.executor": "Debug",
+    "Python.Магические методы __add__.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -150,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724963526379</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Не работают &quot;магические методы&quot;">
+      <option name="closed" value="true" />
+      <created>1725047567007</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725047567007</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +180,7 @@
     <MESSAGE value="namespaces" />
     <MESSAGE value="Не запускается метод go_to" />
     <MESSAGE value="исправлено" />
-    <option name="LAST_COMMIT_MESSAGE" value="исправлено" />
+    <MESSAGE value="Не работают &quot;магические методы&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Не работают &quot;магические методы&quot;" />
   </component>
 </project>
