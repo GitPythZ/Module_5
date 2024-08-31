@@ -48,9 +48,8 @@ class House:
         return self.number_of_flours >= other_value
 
     def __ne__(self, other):
-        if not isinstance(other, (bool, House)):
-            raise ArithmeticError("Содержит тип int или House")
-        return self.number_of_flours != other.number_of_flours
+        other_value = self.__verify_data(other)
+        return self.number_of_flours != other_value
 
     def __str__(self):
         return f"Название: {self.name}, количество этажей: {self.number_of_flours}"
