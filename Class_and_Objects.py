@@ -13,6 +13,8 @@
 # print(den.name)
 
 class Human:
+
+    head = True
     def __init__(self, name, age): # __init__ - это инициализатор, конструктор
         self.name = name # атрибуты
         self.age = age
@@ -52,8 +54,9 @@ den = Human("Боба", 33)
 print(den.name, den.age)
 # den.say_info()
 max.birthday()
-print(len(den))
-print(den < max)
-print(den > max)
-print(den == max)
-print(den)
+# print(len(den))
+# print(den < max)
+# print(den > max)
+# print(den == max)
+# print(den)
+print(Human.head)
