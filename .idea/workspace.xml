@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="110b7463-9d57-4d75-a600-85c94e9bc23d" name="Changes" comment="Не работают &quot;магические методы&quot;">
-      <change afterPath="$PROJECT_DIR$/vebinary/Магические методы __add__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module_5_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_3.py" afterDir="false" />
     </list>
@@ -159,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725047567007</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Не работают &quot;магические методы&quot;">
+      <option name="closed" value="true" />
+      <created>1725052931990</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725052931990</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
