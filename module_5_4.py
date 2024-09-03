@@ -16,11 +16,14 @@
 class House:
     houses_history = []
 
-    # def __new__(cls, houses_history=None, *args, **kwargs):
-    #     print(args)
-    #     print(kwargs)
-    #     houses_history.append(args)
-    #     return cls.houses_history
+    def __new__(cls, *args, **kwargs):
+        house = super().__new__(cls)
+        cls.houses_history.append(args[0])
+        return house
+
+    def __del__(self):
+        self.houses_history.remove(self.name)
+        print(f"{self.name} снесено, но он останется в истории")
 
     def __init__(self, name, number_of_flours):  # определил метод/конструктор __init__
         self.name = name
@@ -84,5 +87,6 @@ class House:
         return other if isinstance(other, int) else other.number_of_flours
 
 #
-# h1 = House("ЖК Эльбрус", 10)
-# print(House.houses_history)
+
+h1 = House("ЖК Эльбрус", 10)
+print(House.houses_history)

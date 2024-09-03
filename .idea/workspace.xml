@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="110b7463-9d57-4d75-a600-85c94e9bc23d" name="Changes" comment="исправлено" />
+    <list default="true" id="110b7463-9d57-4d75-a600-85c94e9bc23d" name="Changes" comment="оптимизировано методом класса">
+      <change afterPath="$PROJECT_DIR$/vebinar_version_conrtrol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_4.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,26 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.04_practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Class_and_Objects.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Closure #замыкания.executor&quot;: &quot;Run&quot;,
-    &quot;Python.method_new.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_4_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.namespaces.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nim_engine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sortfunc.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Магические методы __add__.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.04_practice.executor": "Run",
+    "Python.Class_and_Objects.executor": "Run",
+    "Python.Closure #замыкания.executor": "Run",
+    "Python.method_new.executor": "Run",
+    "Python.module2.executor": "Run",
+    "Python.module_4_2.executor": "Run",
+    "Python.module_5_1.executor": "Run",
+    "Python.module_5_2.executor": "Run",
+    "Python.module_5_3.executor": "Run",
+    "Python.module_5_4.executor": "Run",
+    "Python.namespaces.executor": "Run",
+    "Python.nim_engine.executor": "Run",
+    "Python.sortfunc.executor": "Debug",
+    "Python.vebinar_version_conrtrol.executor": "Run",
+    "Python.Магические методы __add__.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Class_and_Objects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Module_5" />
@@ -218,7 +223,31 @@
       <option name="project" value="LOCAL" />
       <updated>1725128940458</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="оптимизировано методом класса">
+      <option name="closed" value="true" />
+      <created>1725137378849</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725137378849</updated>
+    </task>
+    <task id="LOCAL-00016" summary="оптимизировано методом класса">
+      <option name="closed" value="true" />
+      <created>1725137413464</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725137413464</updated>
+    </task>
+    <task id="LOCAL-00017" summary="оптимизировано методом класса">
+      <option name="closed" value="true" />
+      <created>1725137746492</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1725137746492</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +269,7 @@
     <MESSAGE value="Не запускается метод go_to" />
     <MESSAGE value="Не работают &quot;магические методы&quot;" />
     <MESSAGE value="исправлено" />
-    <option name="LAST_COMMIT_MESSAGE" value="исправлено" />
+    <MESSAGE value="оптимизировано методом класса" />
+    <option name="LAST_COMMIT_MESSAGE" value="оптимизировано методом класса" />
   </component>
 </project>
