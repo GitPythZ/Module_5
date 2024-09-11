@@ -12,7 +12,6 @@ class House:
             print(i)
 
 
-
 h1 = House("ЖК Горький", 18)
 h2 = House("Домик в деревне", 2)
 h1.go_to(5)

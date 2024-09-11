@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="110b7463-9d57-4d75-a600-85c94e9bc23d" name="Changes" comment="оптимизировано методом класса">
-      <change afterPath="$PROJECT_DIR$/vebinar_version_conrtrol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contains__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__str__, __repr__, __len__, __abs__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classpract1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module5hard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +55,13 @@
     "Python.04_practice.executor": "Run",
     "Python.Class_and_Objects.executor": "Run",
     "Python.Closure #замыкания.executor": "Run",
+    "Python.Hash.executor": "Run",
+    "Python.__contains__.executor": "Run",
+    "Python.__str__, __repr__, __len__, __abs__.executor": "Run",
+    "Python.classpract1.executor": "Run",
     "Python.method_new.executor": "Run",
     "Python.module2.executor": "Run",
+    "Python.module5hard.executor": "Run",
     "Python.module_4_2.executor": "Run",
     "Python.module_5_1.executor": "Run",
     "Python.module_5_2.executor": "Run",
@@ -89,8 +99,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="classpract1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Module_5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classpract1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.classpract1" />
         <item itemvalue="Python.Class_and_Objects" />
       </list>
     </recent_temporary>
@@ -247,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725137746492</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="оптимизировано методом класса">
+      <option name="closed" value="true" />
+      <created>1725386080128</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725386080128</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,5 +312,16 @@
     <MESSAGE value="исправлено" />
     <MESSAGE value="оптимизировано методом класса" />
     <option name="LAST_COMMIT_MESSAGE" value="оптимизировано методом класса" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_5_4.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
