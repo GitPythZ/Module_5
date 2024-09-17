@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="110b7463-9d57-4d75-a600-85c94e9bc23d" name="Changes" comment="оптимизировано методом класса">
-      <change afterPath="$PROJECT_DIR$/Hash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__contains__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__str__, __repr__, __len__, __abs__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classpract1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module5hard.py" afterDir="false" />
+    <list default="true" id="110b7463-9d57-4d75-a600-85c94e9bc23d" name="Changes" comment="работа с классами">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module5hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/module5hard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,33 +44,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.04_practice.executor": "Run",
-    "Python.Class_and_Objects.executor": "Run",
-    "Python.Closure #замыкания.executor": "Run",
-    "Python.Hash.executor": "Run",
-    "Python.__contains__.executor": "Run",
-    "Python.__str__, __repr__, __len__, __abs__.executor": "Run",
-    "Python.classpract1.executor": "Run",
-    "Python.method_new.executor": "Run",
-    "Python.module2.executor": "Run",
-    "Python.module5hard.executor": "Run",
-    "Python.module_4_2.executor": "Run",
-    "Python.module_5_1.executor": "Run",
-    "Python.module_5_2.executor": "Run",
-    "Python.module_5_3.executor": "Run",
-    "Python.module_5_4.executor": "Run",
-    "Python.namespaces.executor": "Run",
-    "Python.nim_engine.executor": "Run",
-    "Python.sortfunc.executor": "Debug",
-    "Python.vebinar_version_conrtrol.executor": "Run",
-    "Python.Магические методы __add__.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.04_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Class_and_Objects.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Closure #замыкания.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hash.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__contains__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__str__, __repr__, __len__, __abs__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classpract1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.method_new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module5hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.namespaces.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nim_engine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sortfunc.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.vebinar_version_conrtrol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Магические методы __add__.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.Class_and_Objects">
     <configuration name="Class_and_Objects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Module_5" />
       <option name="ENV_FILES" value="" />
@@ -123,8 +117,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.classpract1" />
         <item itemvalue="Python.Class_and_Objects" />
+        <item itemvalue="Python.classpract1" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +282,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725386080128</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="работа с классами">
+      <option name="closed" value="true" />
+      <created>1726085181698</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1726085181698</updated>
+    </task>
+    <task id="LOCAL-00020" summary="работа с классами">
+      <option name="closed" value="true" />
+      <created>1726085403701</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1726085403701</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,7 +321,8 @@
     <MESSAGE value="Не работают &quot;магические методы&quot;" />
     <MESSAGE value="исправлено" />
     <MESSAGE value="оптимизировано методом класса" />
-    <option name="LAST_COMMIT_MESSAGE" value="оптимизировано методом класса" />
+    <MESSAGE value="работа с классами" />
+    <option name="LAST_COMMIT_MESSAGE" value="работа с классами" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
